@@ -1,6 +1,6 @@
 public class Product {
-    Long id;
-    String name;
-    Long rating;
-    Long price;
+    private Long id;
+    private String name;
+    private Long rating;
+    private Long price;
 }
